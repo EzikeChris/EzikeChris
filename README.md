@@ -1,6 +1,6 @@
 ###  :man_technologist:  [ChristopherEzike](https://https://christopherezike.netlify.app/)
 
-👋 Hi, I'm EzikeChris,a passionate Full-Stack Developer from Nigeria 🚀. 
+👋 Hi, I'm EzikeChris,a passionate Full-Stack Developer🚀. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
