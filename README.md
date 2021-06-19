@@ -9,7 +9,7 @@
 
 -  **Stack:** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** Solidity, Nodejs, JavaScript
--  **Hobbies :** PLayStation:Football: & Music :headphones:
+-  **Hobbies :** PlayStation:Football: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [EzikeChris](mailto:synergyaffirm@gmail.com)
 
